@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Mooshroom.",
+        "description": "§7The mooshroom pack",
+        "uuid": "b3f697a5-d792-4c86-94d5-a42546ee9f77",
+        "min_engine_version": [ 1, 16, 0 ],
+        "version": [ 1, 0, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "49c15531-50e6-4dd6-ad49-b4e4704654c6",
+            "version": [ 1, 0, 0 ]
+        }
+    ],
+    "metadata": {
+        "authors": [ "shizotoaster" ],
+        "license": "MIT",
+        "url": "https://github.com/shizotoaster/mooshroom"
+    }
+}
